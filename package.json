@@ -1,0 +1,22 @@
+{
+  "name": "coderbyte-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khazri-mamedov/coderbyte-test.git"
+  },
+  "author": "Khazri Mammadov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/khazri-mamedov/coderbyte-test/issues"
+  },
+  "homepage": "https://github.com/khazri-mamedov/coderbyte-test#readme",
+  "devDependencies": {
+    "jest": "^29.4.3"
+  }
+}
